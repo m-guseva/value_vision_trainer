@@ -1,6 +1,7 @@
 # 👁 Value Vision Training 👁
 
-## "Learning how to draw is learning how to see"
+## _"Learning how to draw is learning how to see"_
+👾Click to play: https://value-vision-trainer.streamlit.app/
 
 Drawing realistically means mastering the skill of accurately capturing the tonal value of an object. Tonal values indicate light distribution on a surface, defining an object's shape and characteristics. Without correct tonal values, no amount of color can salvage a drawing's realism.
 
@@ -13,6 +14,6 @@ In each round a homogenous area in the image is selected selected (see box in th
 
 ![alt text](interface.png)
 
-The Value Vision Trainer is built in Python using Streamlit for the interface. You can find the program here [insert link]. 
+The Value Vision Trainer is built in Python using Streamlit for the interface. The program is deployed under [this link ](https://value-vision-trainer.streamlit.app/).
 
 I plan to expand this concept to other aspects of art, such as hue matching, proportion training, and perspective. 
