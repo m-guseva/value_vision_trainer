@@ -1,24 +1,14 @@
----
-title: "👁 Value vision training game for artists"
-excerpt: "I created a game in Python where artists can train their tonal values to improve their realistic drawing and painting skills "
-collection: portfolio
----
 # Value Vision Training
 
 ## "Learning how to draw is learning how to see"
 
-Drawing has always been my passion since I was a little girl. On my art journey I learned that to get good at drawing one has to get good at a set of fundamental skills. Arguably the most important one of all is getting the **tonal value** of an object right. Why? The tonal values communicate where the light hits a surface. Simply speaking, the lighter the surface, the closer it is to the light source, the darker the surface, the farther it is from the light. This essentially determines the whole shape and nature of an object. If this is wrong, no amount of color can fix that. So, as an artist you have to be on point with the values (if your goal is to draw realistically of course 😄).
+Drawing realistically means mastering the skill of accurately capturing the tonal value of an object. Tonal values indicate light distribution on a surface, defining an object's shape and characteristics. Without correct tonal values, no amount of color can salvage a drawing's realism.
 
-![Alt text](Drawing.png)
+Many struggle with accurately perceiving tonal values, hindering their ability to translate what they see onto paper. Correcting these biases can take years, especially for self-taught artists without access to consistent feedback.
 
-## The problem:
- People are pretty bad at seeing values correctly and hence they struggle with transfering what they see on paper. Correcting these visual biases is a looong and challenging process that can take years (or decades). Especially self-taught artists who don't have the luxury of studying with a teacher who can give feedback or point out their mistakes, can often only refer to drawing books/tutorials (if at all). What is lacking then is consistent and fast feedback regarding their tonal value judgment. 
+I developed a program that gamifies tonal value training, akin to flashcards. Users match tonal values using a slider, earning points based on accuracy. This provides quick feedback in an engaging format.
 
-## The solution:
-I aimed at creating a program that turns tonal value vision training into a game, resembling the way you would learn with flashcards. How it works: An area in some image is selected and the user has to match the tonal value with a slider. The closer their estimate is to the real value, the more points are rewarded. In this way the person gets quick feedback in the setting of a fun game.
+The Value Vision Trainer is built in Python using Streamlit for the interface. You can find the program here [insert link]. 
 
-The value vision trainer was created in Python using streamlit for the interface. You can find the program here:
-The code is also uploaded on github here.
 
-## Future plans
-I am planning to implement a similar training for other building blocks of art making, e.g. hue matching, proportion training, perspective training, edges (smooth/hard) in the future, this serves as a starting point.
+I plan to expand this concept to other aspects of art, such as hue matching, proportion training, and perspective. 
