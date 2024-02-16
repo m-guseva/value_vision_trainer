@@ -9,7 +9,7 @@ Many aspiring artists struggle with accurately perceiving tonal values, which hi
 
 👉🏻 I developed a program that gamifies tonal value training, akin to learning with flashcards. The user can upload any image they like into the program to train on. I created an algorithm that finds those areas in the image that are homogenous in value. You can read [here](https://m-guseva.github.io/portfolio/ImageAlgorithm/) if you're interested how the algorithm works exactly.
 
-In each round a homogenous area in the image is selected selected (see box in the screenshot below) and the user is asked to match the tonal value with a slider, earning points based on accuracy. In this way the person gets quick feedback in the setting of an engaging game.
+In each round a homogenous area in the image is selected (see box in the screenshot below) and the user is asked to match the tonal value with a slider, earning points based on accuracy. In this way the person gets quick feedback in the setting of an engaging game.
 
 
 ![alt text](interface.png)
